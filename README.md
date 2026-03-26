@@ -28,10 +28,15 @@ The paper covers:
 
 ## Citation
 ```bibtex
-@article{koenigstorfer2024comprehensive,
-  title={A Comprehensive Review of Techniques for Documenting Artificial Intelligence},
+@article{konigstorfer2024comprehensive,
+  title={A comprehensive review of techniques for documenting artificial intelligence},
   author={K{\"o}nigstorfer, Florian},
-  year={2024}
+  journal={Digital Policy, Regulation and Governance},
+  volume={26},
+  number={5},
+  pages={545--559},
+  year={2024},
+  publisher={Emerald Publishing Limited}
 }
 ```
 
